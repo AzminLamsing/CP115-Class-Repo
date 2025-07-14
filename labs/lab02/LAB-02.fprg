@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <flowgorithm fileversion="4.2">
     <attributes>
-        <attribute name="name" value="LAB-02"/>
+        <attribute name="name" value="LAB-2"/>
         <attribute name="authors" value="User"/>
         <attribute name="about" value=""/>
         <attribute name="saved" value="2025-07-14 11:33:06 PG"/>
