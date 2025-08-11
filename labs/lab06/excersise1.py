@@ -1,0 +1,10 @@
+movie_title = "Avengers Endgame"  
+twod_or_3d = "3D"                   
+ticket_price = 18.00              
+numberoftickets = 3             
+is_we_ekend = True                 
+hasStudentDiscount = False        
+PopcornCombo = "Large"            
+TOTAL_PRICE = 54.00              
+customer_age = 25                
+member_id = "M1234"
