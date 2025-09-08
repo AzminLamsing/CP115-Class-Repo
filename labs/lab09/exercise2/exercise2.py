@@ -4,7 +4,7 @@ overtime_hours = int(input())
 tax_status = input()
 
 # TODO your code here
-
+if total income >=
 
 print(employee_name)
 print(tax_rate)
